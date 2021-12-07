@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;build.gradle&apos; to &apos;SpMVC_10_Gradle&apos;&#x0D;&#x0A;- Original project: &apos;lib&apos;&#x0D;&#x0A;- Destination element: &apos;SpMVC_10_Gradle&apos;&#x0D;&#x0A;- Original element: &apos;build.gradle&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" element1="build.gradle" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1638324965318" target="/SpMVC_10_Gradle" units="0" version="1.0"/>
+</session>
